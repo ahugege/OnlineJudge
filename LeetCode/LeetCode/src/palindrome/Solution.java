@@ -15,6 +15,7 @@ public class Solution {
         		tail -- ;
         		continue;
         	}
+        	///lalala
         	if (Character.isLowerCase(atHead)) 
         		atHead = Character.toUpperCase(atHead);
 
