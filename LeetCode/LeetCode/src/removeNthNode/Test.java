@@ -1,6 +1,5 @@
 package removeNthNode;
 
-import java.util.Iterator;
 
 public class Test {
 
